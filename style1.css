@@ -117,5 +117,11 @@ a {
         display: block;
         width: 100%;
     }
-    
+    .menu{
+        left: 100px;  
+        display: flex;  
+        position: absolute;
+        top: 25px;
+
+    }
 }
